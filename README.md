@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Profile's GitHub stats](https://github-readme-stats.vercel.app/api?username=AIWMUS&show_icons=true&theme=synthwave)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AIWMUS&layout=compact&theme=synthwave)
+![Profile's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AIWMUS&show_icons=true&theme=synthwave)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AIWMUS&layout=compact&theme=synthwave)
+![Profile views](https://komarev.com/ghpvc/?username=AIWMUS&color=blueviolet)
