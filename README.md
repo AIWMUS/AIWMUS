@@ -18,5 +18,3 @@ Here are some ideas to get you started:
 ![Profile's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AIWMUS&show_icons=true&theme=synthwave)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AIWMUS&layout=compact&theme=synthwave)
 ![Profile views](https://komarev.com/ghpvc/?username=AIWMUS&color=blueviolet)
-
-![](https://upload.wikimedia.org/wikipedia/commons/8/87/SVG_animation_using_CSS.svg)
